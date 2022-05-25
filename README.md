@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pham Van Huy</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm a student of: [Ho Chi Minh city University of Food Industry] (HUFI)</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
